@@ -1,3 +1,7 @@
+**View the interactive dashboard:** https://app.powerbi.com/groups/me/reports/7bb278b7-8e71-412b-bbe2-abeb96835808/93829e41a4c03c8e95c8?experience=power-bi
+
+
+
 HR Analytics Dashboard
 **Project Overview**
 
